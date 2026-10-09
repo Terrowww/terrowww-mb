@@ -1,4 +1,4 @@
-# Quick
+# Quick на Андроид
 
 ## [Скачать Quick.apk](https://github.com/Terrowww/terrowww-mb/releases/latest)
 
