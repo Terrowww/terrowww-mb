@@ -219,4 +219,4 @@ adb shell settings put secure accessibility_enabled 1
 
 ## Связь
 
-Вопросы, коды активации и баги: **<@Terrowww>**
+Вопросы, коды активации и баги: [автор](https://t.me/Terrowww)
