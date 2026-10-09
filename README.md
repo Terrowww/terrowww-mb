@@ -1,6 +1,6 @@
 # Quick
 
-## [Скачать Quick.apk](https://github.com/Terrowww/terrowww-mb/releases)
+## [Скачать Quick.apk](https://github.com/Terrowww/terrowww-mb/releases/latest)
 
 ## Также есть версия для ПК: [Quick на ПК](https://github.com/Terrowww/terrowww-pc)
 
